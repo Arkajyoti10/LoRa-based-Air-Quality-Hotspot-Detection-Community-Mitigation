@@ -1,7 +1,7 @@
 // 🔴 AUTOMATIC INTEGRATED CREDENTIALS BY CLOUD SERVER
 var FIREBASE_URL = "https://lora-aqi-system-default-rtdb.firebaseio.com/nodes/node_1.json?auth=alDS4QLcqzO6lXqeSTnxRi5axBtORZihDCH48AcW";
-var TELEGRAM_BOT_TOKEN = "8314838505:AAHESornCy0weCgKAg71RxtUVCiH03mtvCo";
-var TELEGRAM_CHAT_ID = "-1004321229754";
+var TELEGRAM_BOT_TOKEN = "------------------------------------";
+var TELEGRAM_CHAT_ID = "-------------------";
 
 function doPost(e) {
   try {
